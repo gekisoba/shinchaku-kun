@@ -1,2 +1,2 @@
 # shinchaku-kun
- web scriping
+ web scraping
